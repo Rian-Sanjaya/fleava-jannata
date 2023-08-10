@@ -1,5 +1,6 @@
 <script setup>
 import { useHomepageStore } from '../../stores/homepage'
+import '../../assets/homepage.css'
 
 const theStayData = useHomepageStore().homepage.components[1]
 </script>
