@@ -16,7 +16,7 @@ body, html {
   -moz-osx-font-smoothing: grayscale;
   height: 100%;
   width: 100%;
-  overflow: hidden;
+  /* overflow: hidden; */
   -webkit-overflow-scrolling: touch;
   box-sizing: border-box;
 }
@@ -4817,7 +4817,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -11911,7 +11911,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -16899,7 +16899,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -22646,7 +22646,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -27943,7 +27943,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -32920,7 +32920,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -38262,7 +38262,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -43648,7 +43648,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -49020,7 +49020,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -54392,7 +54392,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -59546,7 +59546,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -65085,7 +65085,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -70323,7 +70323,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -75547,7 +75547,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
@@ -80612,7 +80612,7 @@ https://flickity.metafizzy.co
         position: absolute;
         height: 100%;
         width: 100%;
-        overflow: hidden;
+        /* overflow: hidden; */
         -webkit-overflow-scrolling: touch;
         z-index: 1;
         box-sizing: border-box
