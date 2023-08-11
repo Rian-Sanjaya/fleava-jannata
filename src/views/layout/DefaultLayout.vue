@@ -3,7 +3,11 @@ import { RouterView } from 'vue-router'
 </script>
 
 <template>
-  <!-- Navbar / Header Component -->
-  <RouterView />
-  <!-- Footer Component -->
+  <div>
+    <div data-v-d995c41c>
+      <!-- Navbar / Header Component -->
+      <RouterView />
+      <!-- Footer Component -->
+    </div>
+  </div>
 </template>
